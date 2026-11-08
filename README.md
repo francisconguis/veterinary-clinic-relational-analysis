@@ -17,6 +17,7 @@ veterinary-clinic-relational-analysis/
 ├── 01_veterinary_clinical_queries_and_analytics.sql
 ├── LICENSE
 └── README.md
+```
 
 Entity Relationship & Schema Details
 The database models a normalized relational schema connecting patients, pet owners, clinical visits, and medical procedures:
