@@ -1,0 +1,20 @@
+PetID,PetName,PetType,Breed,Birthdate,Age,Sex,Owner,FurColor,Weight
+246,Rover,dog,bulldog,2020-10-10,0,M,SLC,brown,5
+341,Morris,cat,siamese,2022-05-06,0,F,MDB,white ,4
+102,Tagpi,dog,aspin,2018-02-14,0,M,GSK,white-brown,8
+210,Hyla,cat,ragdoll,2020-10-15,0,M,NDB,orange-white,6
+260,Spitz,dog,labrador,2021-12-12,0,M,RDL,brown-white,10
+100,Garfield,cat,persian,2015-05-06,0,M,CAG,orange ,6
+400,Mooncake,dog,chichuahua,2023-12-02,0,F,ADC,light brown,2
+450,Jetski,dog,poodle,2024-01-06,0,F,SCP,black,2
+455,Maya,cat,puspin,2022-08-09,0,F,DCD,white-black,2
+265,River,dog,bulldog,2021-10-10,0,M,SLC,brown,3
+350,Mindy,cat,siamese,2022-12-06,0,F,MDB,white ,4
+135,Hunter,dog,aspin,2018-06-14,0,F,GSK,white-brown,4
+205,Mingming,cat,persian,2020-9-15,0,M,NDB,orange-white,5
+261,Brad,dog,labrador,2021-04-12,0,M,RDL,brown-white,9
+150,Gerry,cat,persian,2019-05-06,0,F,CAG,orange ,7
+420,Happy,dog,poodle,2023-12-25,0,F,ADC,light brown,3
+421,Hummer,dog,poodle,2024-03-06,0,M,SCP,black,2
+470,Ligaya,cat,puspin,2022-10-09,0,F,DCD,white-black,4
+  ,,,,, ,,,,
