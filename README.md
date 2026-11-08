@@ -21,4 +21,6 @@ veterinary-clinic-relational-analysis/
 
 Entity Relationship & Schema Details
 The database models a normalized relational schema connecting patients, pet owners, clinical visits, and medical procedures:
+```
 [ owner ] (1) <─────── (M) [ pet ] (1) <─────── (M) [ doctorvisit ] (M) ───────> (1) [ procedure ]
+```
